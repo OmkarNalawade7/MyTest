@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
     /*
         Product showcase background
     */
-    $('.product-showcase').backstretch('assets/img/backgrounds/3.jpg');
+    $('.product-showcase').backstretch('assets/img/backgrounds/5.jpg');
 
     /*
         Gallery
